@@ -143,5 +143,5 @@ storage.img:  75%|██████████████▌      | 75.0M/100
 
 ## Автор
 
-JollyRoger000 aka Roman Volkov (https://github.com/JollyRoger000)  
+Code&Core Dev aka Roman Volkov (https://github.com/JollyRoger000)  
 mailto:r.y.volkov@gmail.com
